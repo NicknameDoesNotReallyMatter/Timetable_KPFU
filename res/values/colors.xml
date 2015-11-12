@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FDF9EC</color>
+    <color name="theme">#8000BFFF</color>
+    <color name="title">#FFFFFF</color>
+    <color name="unimportant">#C0C0C0</color>
+    <color name="header">#ff48201f</color>
+    <color name="plain">#000000</color>
+</resources>

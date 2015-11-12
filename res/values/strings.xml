@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Timetable</string>
+    <string name="settings_filename" translatable="false">settings</string>
+    <string name="default_group">Group is not selected</string>
+    <string name="buttonSettingsDescription">Application Settings</string>
+    <string name="buttonRefreshDescription">Refresh timetable by Internet</string>
+    <string name="app_description">KPFU students` shedule. Possibly updates from official site.</string>
+    <string name="no_data">No data</string>
+</resources>

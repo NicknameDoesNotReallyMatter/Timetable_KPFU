@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Расписание</string>
+    <string name="buttonRefreshDescription">Обновление расписания из интернета</string>
+    <string name="buttonSettingsDescription">Настройки приложения</string>
+    <string name="default_group">Группа не выбрана</string>
+    <string name="app_description">Расписание для студентов НЧИ КФУ.
+        По возможности обновляется с официального сайта института.</string>
+    <string name="no_data">Нет данных</string>
+</resources>
